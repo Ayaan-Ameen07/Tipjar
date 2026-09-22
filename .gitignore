@@ -1,0 +1,6 @@
+# Compiler cache / artifacts
+cache/
+out/
+
+# Secrets — never commit
+.env
